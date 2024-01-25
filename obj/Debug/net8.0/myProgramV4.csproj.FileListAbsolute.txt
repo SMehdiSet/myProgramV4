@@ -1,0 +1,14 @@
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\myProgramV4.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\myProgramV4.AssemblyInfoInputs.cache
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\myProgramV4.AssemblyInfo.cs
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\myProgramV4.csproj.CoreCompileInputs.cache
+F:\VS\Class\myProgramV4\myProgramV4\bin\Debug\net8.0\myProgramV4.exe
+F:\VS\Class\myProgramV4\myProgramV4\bin\Debug\net8.0\myProgramV4.deps.json
+F:\VS\Class\myProgramV4\myProgramV4\bin\Debug\net8.0\myProgramV4.runtimeconfig.json
+F:\VS\Class\myProgramV4\myProgramV4\bin\Debug\net8.0\myProgramV4.dll
+F:\VS\Class\myProgramV4\myProgramV4\bin\Debug\net8.0\myProgramV4.pdb
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\myProgramV4.dll
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\refint\myProgramV4.dll
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\myProgramV4.pdb
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\myProgramV4.genruntimeconfig.cache
+F:\VS\Class\myProgramV4\myProgramV4\obj\Debug\net8.0\ref\myProgramV4.dll
